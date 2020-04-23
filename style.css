@@ -17,7 +17,6 @@ main {
 	display: grid;
 	grid-auto-rows: minmax(100px, auto);
 	grid-gap: 10px;
-	animation-fill-mode: forwards;
 }
 
 main > div { border: 1px solid magenta; }
